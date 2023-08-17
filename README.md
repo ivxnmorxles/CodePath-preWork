@@ -6,7 +6,7 @@ Submitted by: Ivan Morales
 
 Newapp.io is an app that serves as a introduction for the CodePath iOS development course
 
-Time spent:  hour spent in total
+Time spent:  2 hour spent in total
 ## App Brainstorming (Step 4)
  - favorite apps and their features
  - Youtube - able to view videos while using other apps, personalized home screen and videos to watch
